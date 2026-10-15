@@ -1,22 +1,6 @@
 # Indrajith K — Professional Portfolio
 
-A responsive, dependency-free portfolio for GitHub Pages. Built with HTML, CSS and JavaScript, using the supplied résumé and visual references.
-
-## Open in VS Code
-1. Extract this ZIP.
-2. Open the `indrajith-portfolio` folder, or double-click `portfolio.code-workspace`.
-3. Open `index.html` directly in your browser. No installation or build required.
-4. Optional: use the VS Code Live Server extension, or run `python -m http.server 5500` in this folder and visit `http://localhost:5500`.
-
-## Publish on GitHub Pages
-1. Create a GitHub repository, e.g. `portfolio` (public for a standard free GitHub Pages setup).
-2. Upload the **contents** of this folder to the repository root. `index.html` must be at the root, alongside `styles.css`, `script.js`, and `assets/`.
-3. Open repository **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select branch **main**, folder **/ (root)**, then **Save**.
-6. GitHub will show the published URL when deployment finishes, usually `https://YOUR-USERNAME.github.io/portfolio/`.
-
-For `https://YOUR-USERNAME.github.io/`, name the repository `YOUR-USERNAME.github.io` instead. All asset links are relative and work with either approach. No API keys, backend, npm, or paid hosting are required.
+A responsive, dependency-free portfolio for GitHub Pages. Built with HTML, CSS and JavaScript, using the supplied résumé and visual references..
 
 ## Files
 - `index.html`: page content and contact links.
